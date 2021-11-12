@@ -1,11 +1,15 @@
-# Floor Plan
+# SGadget в простых устройствах
 
-A map-like interactive set of [reusable charts](http://bost.ocks.org/mike/chart/) for layering visualizations on a common local coordinate system like floor plans.
+Дивайс в разработке, но что то уже работает. нужно протестировать и выявить недостатки.будут предложения доработать,пишите.
+
+https://connect.smartliving.ru/cms/data_images/1710_image.png
 
 # Resources
 
- * [Demo Page](http://dciarletta.github.com/d3-floorplan/) 
- * [API Reference](http://github.com/dciarletta/d3-floorplan/wiki/API-Reference)
- * [Data Formats](http://github.com/dciarletta/d3-floorplan/wiki/Data-Formats)
+ * [Demo Page](https://connect.smartliving.ru/profile/3195/blog/sgadget-v-prostyh-ustroystvah.html) 
+ * [Data Formats](https://disk.yandex.ru/d/kQUEYbdYOyrmFQ)
 
-Requires [D3](http://mbostock.github.com/d3/).
+если кто пользуется приложением Google Location то это как раз делается для него, показывает заряд батареи гаджета,процент батареи,так же выводит место положения пользователя, подключения гаджета к точки доступа wi-fi.
+
+для скачивания
+[СЫЛКА](https://disk.yandex.ru/d/kQUEYbdYOyrmFQ)
