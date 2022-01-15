@@ -2,7 +2,7 @@
 
 Дивайс в разработке, но что то уже работает. нужно протестировать и выявить недостатки.будут предложения доработать,пишите.
 
-https://connect.smartliving.ru/cms/data_images/1710_image.png
+![](https://connect.smartliving.ru/cms/data_images/1710_image.png)
 
 # Resources
 
